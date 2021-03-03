@@ -2,5 +2,6 @@ Ini adalah keterangan proyek
 
 System requirement
 - PHP versi 7 ke atas
-- MYSQL versi ...
+- MYSQL atau postreSQL
+ versi ..
 - HTTP server (Apache, nginx, dll)
